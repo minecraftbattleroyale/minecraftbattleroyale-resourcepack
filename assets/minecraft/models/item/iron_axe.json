@@ -6,7 +6,7 @@
 		"kisspng-firearm-steampunk-pistol-gun-revolver-5ae85353bebbf6.6716657515251751237813": "kisspng-firearm-steampunk-pistol-gun-revolver-5ae85353bebbf6.6716657515251751237813",
 		"voxels_palette": "blocks/voxels_palette"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Voxels-B89800",
 			"from": [ -8.75, 7, 12.75 ],
@@ -9993,28 +9993,15 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"rotation":  [ 90, 0, -90 ],
-			"translation":  [ 0, 0, -3 ],
-			"scale":  [ 0.35, 0.35, 0.35 ]
-		},
-		"thirdperson_lefthand": {
-			"rotation":  [ 90, 0, 90 ],
-			"translation":  [ 0, 0, -3 ],
-			"scale":  [ 0.35, 0.35, 0.35 ]
-		},
 		"firstperson_righthand": {
-			"rotation":  [ 90, 0, -90 ]
+			"rotation":  [ 90, 0, -90 ],
+			"translation":  [ -3.364, 2.6412, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
-		"firstperson_lefthand": {
-			"rotation":  [ 90, 0, 90 ]
-		},
-		"ground": {
+		"gui": {
 			"rotation":  [ 90, 0, 0 ],
-			"translation":  [ 0, 7.341, 0 ]
-		},
-		"fixed": {
-			"rotation":  [ 90, 0, 0 ]
+			"translation":  [ 0.4565, 0, 0 ],
+			"scale":  [ 0.5008, 0.0001, 0.5 ]
 		}
 	}
 }
