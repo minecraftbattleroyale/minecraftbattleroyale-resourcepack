@@ -1,10 +1,7 @@
 {
 	"__comment": "Designed by Ewized with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"kisspng-firearm-steampunk-pistol-gun-revolver-5ae85353bebbf6.6716657515251751237813": "kisspng-firearm-steampunk-pistol-gun-revolver-5ae85353bebbf6.6716657515251751237813",
-		"voxels_palette": "blocks/voxels_palette"
+		"voxels_palette": "voxels_palette"
 	},
 	"elements": [
 		{
