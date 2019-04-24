@@ -291,5 +291,12 @@
 				"east": { "uv": [ 9, 10, 15, 11 ], "texture": "#texture" }
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 17, -15, -40 ],
+			"scale":  [ 4, 4, 4 ]
+		}
+	}
 }
