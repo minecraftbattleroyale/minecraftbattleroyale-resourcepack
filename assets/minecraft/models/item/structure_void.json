@@ -1,10 +1,9 @@
 {
 	"__comment": "Designed by Ewized with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture"
+		"texture": "atlas"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Box1",
 			"from": [ -4.5, 0.5, -0.5 ],
